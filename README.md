@@ -1,9 +1,29 @@
-<p align="center">
-  <a href="https://palomamourap.github.io/projetonetflix/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/palomamourap/projetonetflix/main/img/splash.png" alt="Interface Instagram" style="max-width:100%;">
-  </a>
-  <br>
-  Recriando a interface de login da Netflix com HTML e CSS.
-</p>
+# NetFlix_Clone
+[![Netlify Status](https://api.netlify.com/api/v1/badges/54e9fc41-4ee6-4b01-acf9-908c186bad18/deploy-status)](https://app.netlify.com/sites/netflixclone-br/deploys)
+## 🚀 Tecnologias
 
-Desafio prático realizado na plataforma <a href="https://web.digitalinnovation.one/home" target="_blank">Digital Innovation One</a>: Recriando a página inicial da Netflix
+* Html5
+* Css3
+* JavaScript
+* Jquery
+* Bootstrap5
+* FontAwesome
+* Google Fonts
+* TMDB Api
+
+***
+## 🖥️ Interface
+<img src=".github/landing.png"/> 
+<img src=".github/media_show_dell-xps15-front.png"/>
+<img src=".github/mylist_dell-xps15-front.png"/> 
+<img src=".github/search_page_dell-xps15-front.png"/>   
+ 
+ ***
+ # 📝 License
+
+
+Este projeto está licenciado sob a Licença MIT License - consulte o arquivo [LICENÇA](LICENSE) para obter detalhes.
+
+***
+
+Feito com 💜 &nbsp;por Miguel Henrique 👋
